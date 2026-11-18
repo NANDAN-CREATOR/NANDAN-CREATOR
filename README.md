@@ -8,9 +8,11 @@
 
 </div>
 
-## Featured: MCPDoctor — test your MCP server for free
+## Projects
 
-Is the MCP server your AI assistant uses safe and well built? Paste its address and get a 0-100 score for **quality, security and reliability**.
+### 1. MCPDoctor: test your MCP server for free
+
+Is the MCP server your AI assistant uses safe and well built? Paste its address and get a 0-100 score for **quality, security and reliability**. Free and open source, no sign-up (5 checks per day on the public page).
 
 <div align="center">
 
@@ -21,7 +23,17 @@ Is the MCP server your AI assistant uses safe and well built? Paste its address 
 
 </div>
 
-Free and open source, no sign-up. Anyone can submit a server on the page (5 checks per day).
+### 2. Pricewatch: find the real price
+
+Type a product name or upload a photo. Pricewatch compares stores in India, shows the **lowest, median and average price**, how much each store **marks it up**, a product picture for every store, and the **date each price was checked**. Photo search uses an image model (CLIP) to read what is in the picture and rank listings by how closely they look like it. Free to run: GitHub Pages front end, Hugging Face Space back end.
+
+<div align="center">
+
+<a href="https://nandan-creator.github.io/pricewatch/"><img src="https://img.shields.io/badge/TRY%20PRICEWATCH-search%20by%20name%20or%20photo-4f46e5?style=for-the-badge" alt="Try Pricewatch" /></a>
+<a href="https://github.com/NANDAN-CREATOR/pricewatch"><img src="https://img.shields.io/github/stars/NANDAN-CREATOR/pricewatch?style=for-the-badge&logo=github&label=STARS" alt="Pricewatch stars" /></a>
+<a href="https://huggingface.co/spaces/Aman519/pricewatch"><img src="https://img.shields.io/badge/HUGGING%20FACE-Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Space" /></a>
+
+</div>
 
 ## About me
 
@@ -41,6 +53,8 @@ Free and open source, no sign-up. Anyone can submit a server on the page (5 chec
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-4f46e5?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
