@@ -25,7 +25,7 @@ Is the MCP server your AI assistant uses safe and well built? Paste its address 
 
 ### 2. Pricewatch: find the real price
 
-Type a product name or upload a photo. Pricewatch compares stores in India, shows the **lowest, median and average price**, how much each store **marks it up**, a product picture for every store, and the **date each price was checked**. Photo search uses an image model (CLIP) to read what is in the picture and rank listings by how closely they look like it. **Currently built for clothes only** (kurtis, jeans, shirts and similar); other product types come later. Free to run: GitHub Pages front end, Hugging Face Space back end.
+Type a product name or upload a photo. Pricewatch compares stores in India, shows the **lowest, median and average price**, how much each store **marks it up**, a product picture for every store, and the **date each price was checked**. Photo search uses an image model (CLIP) to read what is in the picture and rank listings by how closely they look like it. Works for **any product you can search by name** (clothes, shoes, phones, headphones, laptops and more); photo search is strongest on clothes today. Free to run: GitHub Pages front end, Hugging Face Space back end.
 
 <div align="center">
 
