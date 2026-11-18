@@ -33,6 +33,8 @@ Type a product name or upload a photo. Pricewatch compares stores in India, show
 <a href="https://github.com/NANDAN-CREATOR/pricewatch"><img src="https://img.shields.io/github/stars/NANDAN-CREATOR/pricewatch?style=for-the-badge&logo=github&label=STARS" alt="Pricewatch stars" /></a>
 <a href="https://huggingface.co/spaces/Aman519/pricewatch"><img src="https://img.shields.io/badge/HUGGING%20FACE-Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Space" /></a>
 
+<a href="https://nandan-creator.github.io/pricewatch/"><img src="https://raw.githubusercontent.com/NANDAN-CREATOR/pricewatch/main/assets/og.png" width="640" alt="Pricewatch search page preview" /></a>
+
 </div>
 
 ## About me
