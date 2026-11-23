@@ -37,6 +37,20 @@ Type a product name or upload a photo. Pricewatch compares stores in India, show
 
 </div>
 
+### 3. NSE LLM Picker: daily stock picks, checked against reality
+
+An open-weights LLM (Qwen) reads the latest news for each Nifty stock, a price-pattern model scores the last year of moves, and the **top 5 picks for the next trading session** are published every evening. Each pick is logged **before** the market opens and compared with the real close afterwards, so you can see how far expectation was from reality. Free to run: GitHub Actions does the nightly work and a Hugging Face Space shows the results. An experiment, not investment advice.
+
+<div align="center">
+
+<a href="https://huggingface.co/spaces/Aman519/nse-llm-picker"><img src="https://img.shields.io/badge/TODAY'S%20TOP%205-open%20the%20live%20page-4f46e5?style=for-the-badge" alt="Open the live top 5" /></a>
+<a href="https://github.com/NANDAN-CREATOR/nse-llm-picker"><img src="https://img.shields.io/github/stars/NANDAN-CREATOR/nse-llm-picker?style=for-the-badge&logo=github&label=STARS" alt="NSE LLM Picker stars" /></a>
+<a href="https://huggingface.co/spaces/Aman519/nse-llm-picker"><img src="https://img.shields.io/badge/HUGGING%20FACE-Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Space" /></a>
+
+<a href="https://huggingface.co/spaces/Aman519/nse-llm-picker"><img src="https://raw.githubusercontent.com/NANDAN-CREATOR/nse-llm-picker/main/reports/card.svg" width="720" alt="Top 5 picks and expectation vs reality, updated after every nightly run" /></a>
+
+</div>
+
 ## About me
 
 - Senior Data Engineer, 5+ years: Azure, Databricks, Snowflake, dbt, PySpark, Delta Lake, Power BI
